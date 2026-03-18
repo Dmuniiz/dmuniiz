@@ -12,3 +12,6 @@ I am a Software Engineering student passionate about TECHNOLOGY and software dev
 📫 **Como me encontrar?**
 <a href="https://www.linkedin.com/in/davy-muniz-3560a2302/">Linkedin</a> | <a href="https://www.hackerrank.com/profile/davymuniz6">**HackerRank**</a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmuniiz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
