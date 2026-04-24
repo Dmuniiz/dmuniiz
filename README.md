@@ -7,7 +7,7 @@ I am a Software Engineering student passionate about TECHNOLOGY and software dev
 - Open for collaboration on projects and exchange of knowledge.
 - Studying **English at Fisk (B2-C1)** to improve my communication in the technology market.
 -------
-[![My Skills](https://skillicons.dev/icons?i=js,java,py,spring,postgres,linux,mongodb,docker,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,py,spring,postgres,mongodb,docker,maven)](https://skillicons.dev)
 -------
 📫 **Como me encontrar?**
 <a href="https://www.linkedin.com/in/davy-muniz-3560a2302/">Linkedin</a> | <a href="https://www.hackerrank.com/profile/davymuniz6">**HackerRank**</a>
